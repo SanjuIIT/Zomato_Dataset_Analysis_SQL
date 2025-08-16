@@ -1,6 +1,5 @@
-# Zomato Dataset Analysis using SQL
+# Zomato Dataset Analysis using SQL Server
 
-# Zomato Data Exploration & Analysis (SQL Server)
 
 ## Project Overview
 This project focuses on **end-to-end data exploration and analysis** of the Zomato restaurant dataset (~9,000+ rows, 15 countries) using **SQL Server**.  
